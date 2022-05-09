@@ -1,0 +1,11 @@
+C:\Users\elmal\Desktop\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\elmal\Desktop\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\elmal\Desktop\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\elmal\Desktop\homework2\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+C:\Users\elmal\Desktop\homework2\homework2\obj\Debug\homework2.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmal\Desktop\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\elmal\Desktop\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\elmal\Desktop\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\elmal\Desktop\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\elmal\Desktop\homework2\homework2\obj\Debug\homework2.pdb
+C:\Users\elmal\Desktop\homework2\homework2\obj\Debug\homework2.Form1.resources
