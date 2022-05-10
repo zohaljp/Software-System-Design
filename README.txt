@@ -1,4 +1,4 @@
-Cumulative assignment. 
+Cumulative Project. 
 
 This project is in Windows form format. 
 
