@@ -8,7 +8,7 @@ There is practically not time limit on this simulation.
 
 Project can run"forever" just like a normal physical road cross section with physical lights. 
 
-Project also analyzes data gives in a file. 
+Project also analyzes data given in a file. 
 
 Please read pdf file attached for detailed info. 
 
